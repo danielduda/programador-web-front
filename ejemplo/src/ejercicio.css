@@ -1,0 +1,29 @@
+h1{
+    background-color: bisque;
+
+
+}
+
+.cuadrados div{
+
+    display:inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding:50px;
+    margin:20px;
+    height:100px;
+    width: 100px;
+    border: 4px solid black;
+
+}
+.c1{
+
+    background-color: red;
+
+}
+.c2{
+    background-color:green;
+}
+.c3{
+    background-color: blue;
+}
