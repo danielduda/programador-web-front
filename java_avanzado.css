@@ -1,0 +1,41 @@
+
+.cuadrados div {
+
+    display:inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding:50px;
+    margin:20px;
+    height:100px;
+    width:100px;
+    border:4px white;
+}
+
+.c1{
+    background-color: red;
+}
+
+.c2{
+    background-color: green;
+}
+
+.c3{
+    background-color: aqua;
+}
+
+textarea#mensaje{
+
+    position:relative;
+    height:100px;
+    width:170px;
+    border:2px solid black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.caja{
+
+    height:100px;
+    width:170px;
+    position:absolute;
+    left:60px;
+}
